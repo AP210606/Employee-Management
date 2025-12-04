@@ -1,4 +1,3 @@
-// src/components/EmployeeTable.jsx
 import { useContext } from 'react';
 import { EmployeeContext } from '../context/EmployeeContext';
 import EmployeeRow from './EmployeeRow';

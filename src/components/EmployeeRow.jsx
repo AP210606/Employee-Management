@@ -1,4 +1,3 @@
-// src/components/EmployeeRow.jsx
 import { useContext } from 'react';
 import { EmployeeContext } from '../context/EmployeeContext';
 

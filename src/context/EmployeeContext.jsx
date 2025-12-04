@@ -1,4 +1,3 @@
-// src/context/EmployeeContext.jsx
 import { createContext, useState } from 'react';
 
 export const EmployeeContext = createContext();
